@@ -1,3 +1,10 @@
+//****************************//
+//Author:Song Jin
+//Last modify time:2017/9/14
+//version:1.0
+//License:MIT
+//Email:15754603603@163.com
+//****************************//
 #include <iostream> // for standard I/O
 #include <string>   // for strings
 #include <opencv2/core.hpp>     // Basic OpenCV structures (cv::Mat, Scalar)
